@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+a {
+	color: green;
+	padding-left: 10px;
+}
+
+button {
+	padding-left: 5px;
+	color: grey;
+}
